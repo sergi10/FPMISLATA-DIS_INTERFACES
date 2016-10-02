@@ -1,4 +1,4 @@
 ##  **Dispositivos Moviles**
-###Tema 2
-####Calculadora  [github](https://github.com/sergi10/FPMISLATA-DISP_MOV/tree/master/calculadora)
-####Actividad5   [github](https://github.com/sergi10/FPMISLATA-DISP_MOV/tree/master/Actividad5)
+###Tema 1
+####Visor de Imagenes  [github](https://github.com/sergi10/FPMISLATA-DIS_INTERFACES/)
+####Laberinto  [github](https://github.com/sergi10/FPMISLATA-DIS_INTERFACES/tree/master/laberinto/Laberinto)
