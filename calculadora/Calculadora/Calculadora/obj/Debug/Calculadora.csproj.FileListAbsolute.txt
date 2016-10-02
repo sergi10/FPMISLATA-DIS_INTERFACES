@@ -1,0 +1,9 @@
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
