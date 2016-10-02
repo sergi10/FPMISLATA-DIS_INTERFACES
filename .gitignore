@@ -8,3 +8,6 @@
 /captures
 .externalNativeBuild
 *.zip
+calculadora/Calculadora/.vs/
+laberinto/Laberinto/.vs/
+visor/visor/.vs/
