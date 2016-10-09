@@ -1,0 +1,9 @@
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\bin\Debug\PruebaMatematica.exe.config
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\bin\Debug\PruebaMatematica.exe
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\bin\Debug\PruebaMatematica.pdb
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.csprojResolveAssemblyReference.cache
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.Form1.resources
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.Properties.Resources.resources
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.csproj.GenerateResource.Cache
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.exe
+C:\Users\yoyo\Google Drive\FPMISLATA\DIS_INTERFACES\TRABAJOS\PruebaMatematica\PruebaMatematica\obj\Debug\PruebaMatematica.pdb

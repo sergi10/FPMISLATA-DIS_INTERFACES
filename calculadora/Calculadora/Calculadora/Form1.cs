@@ -75,21 +75,25 @@ namespace Calculadora
         private void buttonSuma_clicked(object sender, EventArgs e)
         {
             operando1 = Int32.Parse( labelResult.Text);
+            operacion = 1;
             clear_display();
         }
         private void buttonResta_clicked(object sender, EventArgs e)
         {
             operando1 = Int32.Parse(labelResult.Text);
+            operacion = 2;
             clear_display();
         }
         private void buttonMulti_clicked(object sender, EventArgs e)
         {
             operando1 = Int32.Parse(labelResult.Text);
+            operacion = 3;
             clear_display();
         }
         private void buttonDiv_clicked(object sender, EventArgs e)
         {
             operando1 = Int32.Parse(labelResult.Text);
+            operacion = 4;
             clear_display();
         }
 
